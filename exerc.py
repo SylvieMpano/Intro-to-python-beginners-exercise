@@ -1,4 +1,4 @@
-# exercises
+# exercises.
 
 
 print(366*24)
